@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://social:social1@ds111244.mlab.com:11244/pythonlab",
+  "jwtSecret": "secret",
+  "githubClientId": "b213399a673e4f7e5e91",
+  "githubSecret": "601bd33f4f33195e0630bbf363cd7be2f120e303"
+}

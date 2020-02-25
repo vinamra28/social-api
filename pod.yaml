@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-demo
+  namespace: devconnector
+  labels:
+    app: my-server
+spec:
+  containers:
+  - name: my-server
+    image: quay.io/vinamra2807/social-server:3
